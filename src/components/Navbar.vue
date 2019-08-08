@@ -11,7 +11,7 @@
             <RouterLink to="/three">Three</RouterLink>
         </p>
         <p>
-            <RouterLink to="/user">Users</RouterLink>
+            <RouterLink to="/user">User</RouterLink>
         </p>
     </div>
 </template>
